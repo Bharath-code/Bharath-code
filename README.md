@@ -51,19 +51,23 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 ## 🚀 Top Projects
 
-- [**git-scope**](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine. ⭐ 38 stars
-- [**debugg**](https://github.com/Bharath-code/debugg) - A comprehensive error handling library for TypeScript.
-- [**smart-crisis-councelor**](https://github.com/Bharath-code/smart-crisis-councelor) - An intelligent system designed to assist individuals in crisis situations.
-- [**homebrew-tap**](https://github.com/Bharath-code/homebrew-tap) - A custom Homebrew tap for easy installations.
-- [**youtube_companion_dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) - A dashboard that enhances the YouTube experience.
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=git-scope&theme=dark)](https://github.com/Bharath-code/git-scope)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=debugg&theme=dark)](https://github.com/Bharath-code/debugg)
+<br/>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=smart-crisis-councelor&theme=dark)](https://github.com/Bharath-code/smart-crisis-councelor)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=youtube_companion_dashboard&theme=dark)](https://github.com/Bharath-code/youtube_companion_dashboard)
+
+</div>
 
 ---
 
 ## ⚡ Recent Activity
 
-- Pushed to [homebrew-tap](https://github.com/Bharath-code/homebrew-tap) on Dec 26, 2025.
-- Created a branch in [smart-crisis-councelor](https://github.com/Bharath-code/smart-crisis-councelor) on Dec 26, 2025.
-- Merged pull request #10 in [git-scope](https://github.com/Bharath-code/git-scope) on Dec 25, 2025.
+<!--START_SECTION:activity-->
+*Currently fetching the latest updates...*
+<!--END_SECTION:activity-->
 
 ---
 
