@@ -38,12 +38,8 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 | 🏆 **GitHub Stats** | 📊 **Top Languages** |
 | :---: | :---: |
-| ![Repos](https://img.shields.io/badge/Public_Repos-102-0078d7?style=for-the-badge&logo=github) | ![Go](https://img.shields.io/badge/Go-0078d7?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ![Followers](https://img.shields.io/badge/Followers-14-3fb950?style=for-the-badge&logo=github) | ![Rust](https://img.shields.io/badge/Rust-dea584?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bharath-code&theme=dark&hide_border=true)](https://github.com/Bharath-code)
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=0078d7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&style=for-the-badge&logo=github) | ![Go](https://img.shields.io/badge/Go-0078d7?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ![Followers](https://img.shields.io/github/followers/Bharath-code?color=3fb950&label=Followers&style=for-the-badge&logo=github) | ![Rust](https://img.shields.io/badge/Rust-dea584?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 </div>
 
@@ -51,15 +47,12 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 ## 🚀 Top Projects
 
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=git-scope&theme=dark)](https://github.com/Bharath-code/git-scope)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=debugg&theme=dark)](https://github.com/Bharath-code/debugg)
-<br/>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=smart-crisis-councelor&theme=dark)](https://github.com/Bharath-code/smart-crisis-councelor)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bharath-code&repo=youtube_companion_dashboard&theme=dark)](https://github.com/Bharath-code/youtube_companion_dashboard)
-
-</div>
+| Project | Description | Stars |
+| :--- | :--- | :---: |
+| [**git-scope**](https://github.com/Bharath-code/git-scope) | A fast TUI to see the status of all git repositories on your machine. | ![Stars](https://img.shields.io/github/stars/Bharath-code/git-scope?style=flat-square&color=yellow) |
+| [**debugg**](https://github.com/Bharath-code/debugg) | A comprehensive error handling library for TypeScript. | ![Stars](https://img.shields.io/github/stars/Bharath-code/debugg?style=flat-square&color=yellow) |
+| [**smart-crisis-councelor**](https://github.com/Bharath-code/smart-crisis-councelor) | An intelligent system for crisis situations. | ![Stars](https://img.shields.io/github/stars/Bharath-code/smart-crisis-councelor?style=flat-square&color=yellow) |
+| [**youtube_companion_dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | A dashboard that enhances the YouTube experience. | ![Stars](https://img.shields.io/github/stars/Bharath-code/youtube_companion_dashboard?style=flat-square&color=yellow) |
 
 ---
 
