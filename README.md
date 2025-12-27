@@ -22,6 +22,12 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 ---
 
+## 🔧 What I'm Building
+
+Currently working on **[git-scope](https://github.com/Bharath-code/git-scope)** — a fast TUI for managing multi-repo Git workflows.
+
+---
+
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -32,14 +38,13 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 ---
 
-## 📊 Performance & Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🏆 **GitHub Stats** | 📊 **Top Languages** |
-| :---: | :---: |
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=0078d7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&style=for-the-badge&logo=github) | ![Go](https://img.shields.io/badge/Go-0078d7?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ![Followers](https://img.shields.io/github/followers/Bharath-code?color=3fb950&label=Followers&style=for-the-badge&logo=github) | ![Rust](https://img.shields.io/badge/Rust-dea584?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+![Bharath's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bharath-code&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharath-code&theme=github-dark-blue&hide_border=true)
 
 </div>
 
