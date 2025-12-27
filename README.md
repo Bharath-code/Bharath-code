@@ -43,7 +43,7 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharath-code&theme=dark&hide_border=true)](https://github.com/Bharath-code)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bharath-code&theme=dark&hide_border=true)](https://github.com/Bharath-code)
 
 </div>
 
@@ -73,7 +73,9 @@ I am a software developer based in India, dedicated to building impactful softwa
 
 ## ✍️ Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 *Currently brewing some fresh content! Stay tuned.*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
