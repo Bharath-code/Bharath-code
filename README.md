@@ -59,7 +59,7 @@ I am a software developer based in India, dedicated to building impactful softwa
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-*Currently fetching the latest updates...*
+1. 🗣 Commented on [#43982](https://github.com/PostHog/posthog/issues/43982#issuecomment-3691635294) in [PostHog/posthog](https://github.com/PostHog/posthog)
 <!--END_SECTION:activity-->
 
 ---
