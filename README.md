@@ -100,7 +100,7 @@ Currently working on **[git-scope](https://github.com/Bharath-code/git-scope)** 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/Bharath-code/git-scope/issues/8) in [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope)
+1. 🗣 Commented on [#14](https://github.com/Bharath-code/git-scope/pull/14#issuecomment-3823739072) in [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope)
 <!--END_SECTION:activity-->
 
 ---
