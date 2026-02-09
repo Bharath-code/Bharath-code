@@ -1,7 +1,9 @@
 <div align="center">
 
 # Hi there! 👋 I'm Bharathkumar
-**Software Architect | Creator of git-scope (2K+ Downloads) | 15K+ Monthly Blog Readers | Open Source Contributor**
+**Software Engineer | AI Tool Builder | Open Source Contributer**
+
+*Building developer tools and AI-powered solutions that solve real problems*
 
 [![Twitter Badge](https://img.shields.io/badge/-@iam__pbk-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_pbk)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bharath-code&color=0078d7&style=for-the-badge)](https://github.com/Bharath-code)
@@ -18,28 +20,32 @@
 
 ## 📖 About Me
 
-I am a software developer based in India, dedicated to building impactful software solutions and exploring the cutting edge of technology. I thrive in collaborative environments and love contributing to open-source projects that solve real-world problems.
+I'm a software developer based in India who builds scalable systems and developer tools that solve real problems. I leverage AI technologies to automate workflows, enhance developer productivity, and create intelligent solutions. Passionate about open-source, I've created tools like **git-scope** that help developers manage complex workflows more efficiently. I thrive in fast-paced environments where I can ship impactful products and contribute to meaningful projects.
 
 ---
 
 ## 🎯 Open to Opportunities
 
-I'm currently **open to new opportunities** in roles where I can build developer tools, scale systems, and contribute to impactful products.
+I'm currently **open to new opportunities** where I can build impactful products, scale systems, and leverage AI to solve complex problems.
 
 ### 💼 Role Interests
-- **Backend Engineer** - Go, Rust, Node.js
-- **Developer Tools Engineer** - CLI tools, SDKs, productivity software
-- **Full-Stack Engineer** - React, TypeScript, PostgreSQL
-- **Platform Engineer** - Infrastructure, DevOps, Cloud (AWS/GCP)
+- **AI/ML Engineer** - Building AI-powered tools, LLM integrations, automation systems
+- **Backend Engineer** - Go, Rust, Node.js, building scalable APIs and services
+- **Developer Tools Engineer** - CLI tools, SDKs, productivity software, developer experience
+- **Full-Stack Engineer** - React, TypeScript, PostgreSQL, end-to-end product development
+- **Platform Engineer** - Infrastructure, DevOps, Cloud (AWS/GCP), system reliability
 
 ### 🌍 Preferences
 - Remote-first or hybrid teams
 - Early-stage to growth-stage startups
-- Companies building developer tools or B2B SaaS
+- Companies building developer tools, B2B SaaS, or AI-powered products
+- Teams that value shipping fast, learning, and impact
 
-### 📫 How to Reach Me
+### 📫 Let's Connect
+I'm always open to discussing new opportunities, interesting projects, or just connecting with fellow developers.
+
 - **Email:** [kumarbharath63@gmail.com](mailto:kumarbharath63@gmail.com)
-- **LinkedIn:** [linkedin.com/in/bharathkumar-p](https://linkedin.com/in/bharathkumar-p)
+- **LinkedIn:** [linkedin.com/in/bharathkumar-p](https://linkedin.com/in/bharathkumar-palanisamy)
 - **Twitter/X:** [@iam_pbk](https://x.com/iam_pbk)
 - **Schedule a call:** [Calendly](https://calendly.com/your-link)
 
@@ -50,7 +56,6 @@ I'm currently **open to new opportunities** in roles where I can build developer
 ## 🔧 What I'm Building
 
 Currently working on **[git-scope](https://github.com/Bharath-code/git-scope)** — a fast TUI for managing multi-repo Git workflows.
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -81,7 +86,7 @@ Currently working on **[git-scope](https://github.com/Bharath-code/git-scope)** 
 | :--- | :--- | :--- |
 | [**git-scope**](https://github.com/Bharath-code/git-scope) | A fast TUI to see the status of all git repositories on your machine. | ![Stars](https://img.shields.io/github/stars/Bharath-code/git-scope?style=flat-square&color=yellow) |
 | [**debugg**](https://github.com/Bharath-code/debugg) | A comprehensive error handling library for TypeScript. | ![Stars](https://img.shields.io/github/stars/Bharath-code/debugg?style=flat-square&color=yellow) |
-| [**smart-crisis-councelor**](https://github.com/Bharath-code/smart-crisis-councelor) | An intelligent system for crisis situations. | ![Stars](https://img.shields.io/github/stars/Bharath-code/smart-crisis-councelor?style=flat-square&color=yellow) |
+| [**smart-crisis-councelor**](https://github.com/Bharath-code/smart-crisis-councelor) | An AI-powered intelligent system for crisis situations. | ![Stars](https://img.shields.io/github/stars/Bharath-code/smart-crisis-councelor?style=flat-square&color=yellow) |
 | [**youtube_companion_dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | A dashboard that enhances the YouTube experience. | ![Stars](https://img.shields.io/github/stars/Bharath-code/youtube_companion_dashboard?style=flat-square&color=yellow) |
 
 ### 📊 Live GitHub Metrics
