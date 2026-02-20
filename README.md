@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there! 👋 I'm Bharathkumar
-**Software Engineer · Developer Tools · AI Integration**
+**Software Engineer · Developer Tools · AI-Augmented Builder**
 
-*I build CLI tools in Go and ship AI-powered products with TypeScript*
+*I use AI to ship developer tools and production apps at 3× speed*
 
 [![Twitter Badge](https://img.shields.io/badge/-@iam__pbk-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_pbk)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bharath-code&color=0078d7&style=for-the-badge)](https://github.com/Bharath-code)
@@ -12,25 +12,25 @@
 
 ## About Me
 
-I'm a software engineer based in India who builds developer tools and AI-powered products. My CLI tool [**git-scope**](https://github.com/Bharath-code/git-scope) — written in Go — helps developers manage 50+ repositories from a single TUI with <10ms launch time, and has 6 contributors and 15 releases on Homebrew and npm.
+I build developer tools and AI-integrated products — and I use AI (Cursor, Claude, Copilot) to ship them faster. My CLI tool [**git-scope**](https://github.com/Bharath-code/git-scope) went from idea to 71 stars, 15 releases, and Homebrew distribution in 10 weeks.
 
-I integrate LLMs (Gemini, ElevenLabs) into production apps with real-time voice, structured output, and end-to-end TypeScript. I write about my work on [Medium](https://medium.com/@kumarbharath63) and [Dev.to](https://dev.to/iam_pbk).
+I integrate LLMs (Gemini, ElevenLabs) into production apps with real-time voice AI and structured output. I've built 20+ projects across SaaS, CLI tools, and browser extensions — all open source. I write about my process on [Medium](https://medium.com/@kumarbharath63) and [Dev.to](https://dev.to/iam_pbk).
 
 ---
 
 ## 🎯 Open to Opportunities
 
-I'm currently **open to new roles** — especially in teams building developer tools, B2B SaaS, or AI-powered products.
+I'm looking for teams where I can **build products end-to-end** — from system design to shipped UI — using AI to move fast without breaking things.
 
 ### 💼 Best Fit Roles
-- **Developer Tools Engineer** — CLI tools, SDKs, developer experience
-- **Full-Stack Engineer** — React, TypeScript, Go, PostgreSQL, end-to-end product development
-- **AI/ML Engineer** — LLM integrations, voice AI, automation systems
+- **Developer Tools Engineer** — CLIs, SDKs, developer experience (I've shipped to Homebrew + npm)
+- **Full-Stack Engineer** — Go, TypeScript, React, PostgreSQL, end-to-end product ownership
+- **AI/ML Engineer** — LLM integrations, voice AI, AI-augmented workflows
 
 ### 🌍 Preferences
 - Remote-first or hybrid
-- Early-stage to growth-stage startups
-- Teams that value shipping fast and learning in public
+- Early-stage to growth-stage startups building dev tools, B2B SaaS, or AI products
+- Teams that value shipping, learning in public, and using AI as a force multiplier
 
 ### 📫 Let's Connect
 - **Email:** [kumarbharath63@gmail.com](mailto:kumarbharath63@gmail.com)
@@ -112,7 +112,6 @@ I'm currently **open to new roles** — especially in teams building developer t
 - [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
 - [Why LazyGit Wasn't Enough for My Multi-Repo Workflow](https://medium.com/@kumarbharath63/why-lazygit-wasnt-enough-for-my-multi-repo-workflow-ee8c4deca839?source=rss-762e21a6f141------2)
 - [How to use git-scope.](https://dev.to/iam_pbk/how-to-use-git-scope-3gb0)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
