@@ -1,116 +1,108 @@
 <div align="center">
 
 # Hi there! 👋 I'm Bharathkumar
-**Software Engineer | AI Tool Builder | Open Source Contributer**
+**Software Engineer · Developer Tools · AI Integration**
 
-*Building developer tools and AI-powered solutions that solve real problems*
+*I build CLI tools in Go and ship AI-powered products with TypeScript*
 
 [![Twitter Badge](https://img.shields.io/badge/-@iam__pbk-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_pbk)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bharath-code&color=0078d7&style=for-the-badge)](https://github.com/Bharath-code)
 
-```text
-  ____  _                     _   _                         _      
- | __ )| |__   __ _ _ __ __ _| |_| |__         ___ ___   __| | ___ 
- |  _ \| '_ \ / _` | '__/ _` | __| '_ \ _____ / __/ _ \ / _` |/ _ \
- | |_) | | | | (_| | | | (_| | |_| | | |_____| (_| (_) | (_| |  __/
- |____/|_| |_|\__,_|_|  \__,_|\__|_| |_|      \___\___/ \__,_|\___|
-```
-
 </div>
 
-## 📖 About Me
+## About Me
 
-I'm a software developer based in India who builds scalable systems and developer tools that solve real problems. I leverage AI technologies to automate workflows, enhance developer productivity, and create intelligent solutions. Passionate about open-source, I've created tools like **git-scope** that help developers manage complex workflows more efficiently. I thrive in fast-paced environments where I can ship impactful products and contribute to meaningful projects.
+I'm a software engineer based in India who builds developer tools and AI-powered products. My CLI tool [**git-scope**](https://github.com/Bharath-code/git-scope) — written in Go — helps developers manage 50+ repositories from a single TUI with <10ms launch time, and has 6 contributors and 15 releases on Homebrew and npm.
+
+I integrate LLMs (Gemini, ElevenLabs) into production apps with real-time voice, structured output, and end-to-end TypeScript. I write about my work on [Medium](https://medium.com/@kumarbharath63) and [Dev.to](https://dev.to/iam_pbk).
 
 ---
 
 ## 🎯 Open to Opportunities
 
-I'm currently **open to new opportunities** where I can build impactful products, scale systems, and leverage AI to solve complex problems.
+I'm currently **open to new roles** — especially in teams building developer tools, B2B SaaS, or AI-powered products.
 
-### 💼 Role Interests
-- **AI/ML Engineer** - Building AI-powered tools, LLM integrations, automation systems
-- **Backend Engineer** - Go, Rust, Node.js, building scalable APIs and services
-- **Developer Tools Engineer** - CLI tools, SDKs, productivity software, developer experience
-- **Full-Stack Engineer** - React, TypeScript, PostgreSQL, end-to-end product development
-- **Platform Engineer** - Infrastructure, DevOps, Cloud (AWS/GCP), system reliability
+### 💼 Best Fit Roles
+- **Developer Tools Engineer** — CLI tools, SDKs, developer experience
+- **Full-Stack Engineer** — React, TypeScript, Go, PostgreSQL, end-to-end product development
+- **AI/ML Engineer** — LLM integrations, voice AI, automation systems
 
 ### 🌍 Preferences
-- Remote-first or hybrid teams
+- Remote-first or hybrid
 - Early-stage to growth-stage startups
-- Companies building developer tools, B2B SaaS, or AI-powered products
-- Teams that value shipping fast, learning, and impact
+- Teams that value shipping fast and learning in public
 
 ### 📫 Let's Connect
-I'm always open to discussing new opportunities, interesting projects, or just connecting with fellow developers.
-
 - **Email:** [kumarbharath63@gmail.com](mailto:kumarbharath63@gmail.com)
-- **LinkedIn:** [linkedin.com/in/bharathkumar-p](https://linkedin.com/in/bharathkumar-palanisamy)
+- **LinkedIn:** [linkedin.com/in/bharathkumar-palanisamy](https://linkedin.com/in/bharathkumar-palanisamy)
 - **Twitter/X:** [@iam_pbk](https://x.com/iam_pbk)
-- **Schedule a call:** [Calendly](https://calendly.com/your-link)
-
-[![Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](./resume.pdf)
-
----
-
-## 🔧 What I'm Building
-
-Currently working on **[git-scope](https://github.com/Bharath-code/git-scope)** — a fast TUI for managing multi-repo Git workflows.
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,docker,react,nodejs,rust,git,mysql,aws,linux,astro,tailwind,vercel,supabase,postgres,bun,vite,vitest,nextjs,netlify,express,redis,svelte&perline=12)](https://github.com/Bharath-code)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath-code&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
 ## 🚀 Top Projects
 
-| Project | Description | Impact |
+| Project | What It Does | Tech |
 | :--- | :--- | :--- |
-| [**git-scope**](https://github.com/Bharath-code/git-scope) | A fast TUI to see the status of all git repositories on your machine. | ![Stars](https://img.shields.io/github/stars/Bharath-code/git-scope?style=flat-square&color=yellow) |
-| [**debugg**](https://github.com/Bharath-code/debugg) | A comprehensive error handling library for TypeScript. | ![Stars](https://img.shields.io/github/stars/Bharath-code/debugg?style=flat-square&color=yellow) |
-| [**smart-crisis-councelor**](https://github.com/Bharath-code/smart-crisis-councelor) | An AI-powered intelligent system for crisis situations. | ![Stars](https://img.shields.io/github/stars/Bharath-code/smart-crisis-councelor?style=flat-square&color=yellow) |
-| [**youtube_companion_dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | A dashboard that enhances the YouTube experience. | ![Stars](https://img.shields.io/github/stars/Bharath-code/youtube_companion_dashboard?style=flat-square&color=yellow) |
-
-### 📊 Live GitHub Metrics
+| [**git-scope**](https://github.com/Bharath-code/git-scope) | Go TUI that scans 50+ repos in <10ms. Fuzzy search, workspace switching, dirty filter, contribution graph, disk usage view. 15 releases, 6 contributors, Homebrew + npm. | Go, Bubble Tea, Homebrew |
+| [**debugg**](https://github.com/Bharath-code/debugg) | Universal error handling library for TypeScript. Auto-classifies errors by severity, attaches rich context, routes to Sentry/webhooks. Type-safe, cross-platform (browser + Node). | TypeScript, npm |
+| [**Smart Crisis Counselor**](https://github.com/Bharath-code/smart-crisis-councelor) | Voice-first AI crisis counselor with sub-800ms response time. Real-time transcript, 911 auto-call with GPS, breathing exercises, incognito mode. | Next.js 15, Gemini, ElevenLabs, Vercel Postgres |
+| [**YouTube Companion Dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | Full-stack dashboard for managing YouTube videos, comments, and notes. Google OAuth, event audit logging, searchable tagging. | Next.js 14, Prisma, shadcn/ui, YouTube API v3 |
 
 <div align="center">
 
 ![Total Stars](https://img.shields.io/github/stars/Bharath-code?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=public_repos&label=Public%20Repos&style=for-the-badge&color=blue&logo=github)
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=followers&label=Followers&style=for-the-badge&color=green&logo=github)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=following&label=Following&style=for-the-badge&color=purple&logo=github)
 
 </div>
 
 ---
 
-## ⚡ Recent Activity
+### Other Projects & Micro SaaS
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Bharath-code/git-scope/pull/13#issuecomment-3833447133) in [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope)
-<!--END_SECTION:activity-->
+**CLI & Developer Tools**
+- ✂️ [**snip**](https://github.com/Bharath-code/snip) – Lightweight CLI for saving, searching, sharing, and running reusable code snippets from the terminal.
+- 📄 [**resume-cli**](https://github.com/Bharath-code/resume-cli) – Generate and manage your resume from the command line.
+
+**SaaS & AI Products**
+- 📊 [**salesIQ**](https://github.com/Bharath-code/salesIQ) – AI-powered sales coaching platform that analyzes call transcripts.
+- 🎨 [**QRaft_AI**](https://github.com/Bharath-code/QRaft_AI) – AI-powered QR code generator with custom styling.
+- 🔮 [**rivaleye**](https://github.com/Bharath-code/rivaleye) – Competitor intelligence and monitoring SaaS.
+- 📉 [**churn_pilot**](https://github.com/Bharath-code/churn_pilot) – Customer churn prediction and prevention dashboard.
+- 💰 [**ai-cost-guard**](https://github.com/Bharath-code/ai-cost-guard) – Monitor and optimize AI API spending.
+- 🧾 [**invoicebot**](https://github.com/Bharath-code/invoicebot) – Automated invoice generation and management.
+- 💳 [**paymenow**](https://github.com/Bharath-code/paymenow) – Payment processing and checkout flows.
+- 🥗 [**ketolens**](https://github.com/Bharath-code/ketolens) – Keto diet tracker and food analysis app.
+- 🎬 [**waveclip**](https://github.com/Bharath-code/waveclip) – Video clipping and editing tool.
+- 📑 [**deckslayer**](https://github.com/Bharath-code/deckslayer) – Pitch deck builder and presentation tool.
+- 📌 [**pincode-finder**](https://github.com/Bharath-code/pincode-finder) – Indian pincode lookup and area search.
+
+**Browser Extensions & Frontend**
+- 🔲 [**tabZero**](https://github.com/Bharath-code/tabZero) – New tab replacement browser extension (Svelte).
+
+- ✏️ [**highlight_text_extension**](https://github.com/Bharath-code/highlight_text_extension) – Browser extension for highlighting text on any webpage.
+- 🌐 [**how_the_web_works**](https://github.com/Bharath-code/how_the_web_works) – Interactive guide explaining how the web works (Astro).
+- 🏢 [**ad_agency**](https://github.com/Bharath-code/ad_agency) – Ad agency for your business in LLM(OpenAI,Perplexity,Gemini,etc.)(Svelte).
 
 ---
 
-## ✍️ Latest Blog Posts
+## 🛠️ Skills & Technologies
+
+**Primary:** Go · TypeScript · React · Node.js · PostgreSQL · Next.js
+
+**Infrastructure:** Docker · AWS · Redis · Linux · Vercel · Supabase
+
+**Familiar:**  Svelte · Astro · Bun · Vite
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nodejs,postgres,nextjs,docker,aws,redis,linux,vercel,supabase,rust,svelte,astro,bun,vite,tailwind,html,css,git,mysql,express&perline=12)](https://github.com/Bharath-code)
+
+</div>
+
+
+
+## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [[Boost]](https://dev.to/iam_pbk/-2434)
@@ -118,6 +110,9 @@ Currently working on **[git-scope](https://github.com/Bharath-code/git-scope)** 
 - [Why Git Breaks Down with Many Repos &lpar;and What I Built Instead&rpar;](https://medium.com/@kumarbharath63/why-git-breaks-down-with-many-repos-and-what-i-built-instead-2513233d0ea6?source=rss-762e21a6f141------2)
 - [git scope -&gt; manage your multi git repos](https://dev.to/iam_pbk/git-scope-manage-your-multi-git-repos-4lgg)
 - [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
+- [Why LazyGit Wasn't Enough for My Multi-Repo Workflow](https://medium.com/@kumarbharath63/why-lazygit-wasnt-enough-for-my-multi-repo-workflow-ee8c4deca839?source=rss-762e21a6f141------2)
+- [How to use git-scope.](https://dev.to/iam_pbk/how-to-use-git-scope-3gb0)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
