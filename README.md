@@ -18,17 +18,17 @@ I integrate LLMs (Gemini, ElevenLabs) into production apps with real-time voice 
 
 ---
 
-## 🎯 Open to Opportunities
+## 🎯 Open to Opportunities (Remote, Hybrid, & Onsite)
 
-I'm looking for teams where I can **build products end-to-end** — from system design to shipped UI — using AI to move fast without breaking things.
+I'm an India-based engineer looking for teams where I can **build products end-to-end** — from system design to shipped UI — using AI to move fast without breaking things.
 
 ### 💼 Best Fit Roles
 - **Developer Tools Engineer** — CLIs, SDKs, developer experience (I've shipped to Homebrew + npm)
 - **Full-Stack Engineer** — Go, TypeScript, React, PostgreSQL, end-to-end product ownership
 - **AI/ML Engineer** — LLM integrations, voice AI, AI-augmented workflows
 
-### 🌍 Preferences
-- Remote-first or hybrid
+### 🌍 Location & Preferences
+- **Based:** India 🇮🇳 (Open to Remote, Hybrid, & Onsite roles globally)
 - Early-stage to growth-stage startups building dev tools, B2B SaaS, or AI products
 - Teams that value shipping, learning in public, and using AI as a force multiplier
 
@@ -45,7 +45,7 @@ I'm looking for teams where I can **build products end-to-end** — from system 
 | :--- | :--- | :--- |
 | [**git-scope**](https://github.com/Bharath-code/git-scope) | Go TUI that scans 50+ repos in <10ms. Fuzzy search, workspace switching, dirty filter, contribution graph, disk usage view. 15 releases, 6 contributors, Homebrew + npm. | Go, Bubble Tea, Homebrew |
 | [**debugg**](https://github.com/Bharath-code/debugg) | Universal error handling library for TypeScript. Auto-classifies errors by severity, attaches rich context, routes to Sentry/webhooks. Type-safe, cross-platform (browser + Node). | TypeScript, npm |
-| [**Smart Crisis Counselor**](https://github.com/Bharath-code/smart-crisis-councelor) | Voice-first AI crisis counselor with sub-800ms response time. Real-time transcript, 911 auto-call with GPS, breathing exercises, incognito mode. | Next.js 15, Gemini, ElevenLabs, Vercel Postgres |
+| [**Smart Crisis Counselor**](https://github.com/Bharath-code/smart-crisis-counselor) | Voice-first AI crisis counselor with sub-800ms response time. Real-time transcript, 911 auto-call with GPS, breathing exercises, incognito mode. | Next.js 15, Gemini, ElevenLabs, Vercel Postgres |
 | [**YouTube Companion Dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | Full-stack dashboard for managing YouTube videos, comments, and notes. Google OAuth, event audit logging, searchable tagging. | Next.js 14, Prisma, shadcn/ui, YouTube API v3 |
 
 <div align="center">
@@ -65,9 +65,10 @@ I'm looking for teams where I can **build products end-to-end** — from system 
 - 📄 [**resume-cli**](https://github.com/Bharath-code/resume-cli) – Generate and manage your resume from the command line.
 
 **SaaS & AI Products**
+- 🔮 [**rivaleye**](https://github.com/Bharath-code/rivaleye) – Competitor intelligence and monitoring SaaS.
+- 🏢 [**ad_agency**](https://github.com/Bharath-code/ad_agency) – Ad agency for your business in LLM(OpenAI,Perplexity,Gemini,etc.)(Svelte).
 - 📊 [**salesIQ**](https://github.com/Bharath-code/salesIQ) – AI-powered sales coaching platform that analyzes call transcripts.
 - 🎨 [**QRaft_AI**](https://github.com/Bharath-code/QRaft_AI) – AI-powered QR code generator with custom styling.
-- 🔮 [**rivaleye**](https://github.com/Bharath-code/rivaleye) – Competitor intelligence and monitoring SaaS.
 - 📉 [**churn_pilot**](https://github.com/Bharath-code/churn_pilot) – Customer churn prediction and prevention dashboard.
 - 💰 [**ai-cost-guard**](https://github.com/Bharath-code/ai-cost-guard) – Monitor and optimize AI API spending.
 - 🧾 [**invoicebot**](https://github.com/Bharath-code/invoicebot) – Automated invoice generation and management.
@@ -79,14 +80,12 @@ I'm looking for teams where I can **build products end-to-end** — from system 
 
 **Browser Extensions & Frontend**
 - 🔲 [**tabZero**](https://github.com/Bharath-code/tabZero) – New tab replacement browser extension (Svelte).
-
-- ✏️ [**highlight_text_extension**](https://github.com/Bharath-code/highlight_text_extension) – Browser extension for highlighting text on any webpage.
 - 🌐 [**how_the_web_works**](https://github.com/Bharath-code/how_the_web_works) – Interactive guide explaining how the web works (Astro).
-- 🏢 [**ad_agency**](https://github.com/Bharath-code/ad_agency) – Ad agency for your business in LLM(OpenAI,Perplexity,Gemini,etc.)(Svelte).
+
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies (Go | TypeScript | React | AI)
 
 **Primary:** Go · TypeScript · React · Node.js · PostgreSQL · Next.js
 
@@ -108,8 +107,10 @@ I'm looking for teams where I can **build products end-to-end** — from system 
 - [[Boost]](https://dev.to/iam_pbk/-2434)
 - [snip - Terminal Snippet Manager](https://dev.to/iam_pbk/snip-terminal-snippet-manager-570g)
 - [Why Git Breaks Down with Many Repos &lpar;and What I Built Instead&rpar;](https://medium.com/@kumarbharath63/why-git-breaks-down-with-many-repos-and-what-i-built-instead-2513233d0ea6?source=rss-762e21a6f141------2)
-- [git scope -&gt; manage your multi git repos](https://dev.to/iam_pbk/git-scope-manage-your-multi-git-repos-4lgg)
+- [Git-Scope: Manage Your Multi-Git Repos](https://dev.to/iam_pbk/git-scope-manage-your-multi-git-repos-4lgg)
 - [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
+- [Why LazyGit Wasn't Enough for My Multi-Repo Workflow](https://medium.com/@kumarbharath63/why-lazygit-wasnt-enough-for-my-multi-repo-workflow-ee8c4deca839?source=rss-762e21a6f141------2)
+- [How to Use Git-Scope](https://dev.to/iam_pbk/how-to-use-git-scope-3gb0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
