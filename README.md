@@ -106,9 +106,9 @@ I'm an India-based engineer looking for teams where I can **build products end-t
 <!-- BLOG-POST-LIST:START -->
 - [[Boost]](https://dev.to/iam_pbk/-2434)
 - [snip - Terminal Snippet Manager](https://dev.to/iam_pbk/snip-terminal-snippet-manager-570g)
+- [Why Git Breaks Down with Many Repos &lpar;and What I Built Instead&rpar;](https://medium.com/@kumarbharath63/why-git-breaks-down-with-many-repos-and-what-i-built-instead-2513233d0ea6?source=rss-762e21a6f141------2)
 - [git scope -&gt; manage your multi git repos](https://dev.to/iam_pbk/git-scope-manage-your-multi-git-repos-4lgg)
 - [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
-- [How to use git-scope.](https://dev.to/iam_pbk/how-to-use-git-scope-3gb0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
