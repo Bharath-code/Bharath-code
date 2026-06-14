@@ -1,118 +1,170 @@
 <div align="center">
 
-# Hi there! 👋 I'm Bharathkumar
-**Software Engineer · Developer Tools · AI-Augmented Builder**
+<img src="./assets/github-profile-banner.png" alt="Bharathkumar Palanisamy - Developer Tools Engineer" width="100%" />
 
-*I use AI to ship developer tools and production apps at 3× speed*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Developer+Tools+Engineer;AI-Augmented+Full-Stack+Builder;Open+Source+Maintainer;Shipped+to+Homebrew+%7C+npm+%7C+Vercel" alt="Typing SVG" />
+</a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@iam__pbk-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_pbk)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-10B981?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:kumarbharath63@gmail.com)
+[![Location](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-0078D4?style=for-the-badge)](https://linkedin.com/in/bharathkumar-palanisamy)
+[![Remote](https://img.shields.io/badge/Remote%20%7C%20Hybrid%20%7C%20Onsite-6366F1?style=for-the-badge&logo=planetscale&logoColor=white)](mailto:kumarbharath63@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bharath-code&color=0078d7&style=for-the-badge)](https://github.com/Bharath-code)
 
 </div>
 
-## About Me
+---
 
-I build developer tools and AI-integrated products — and I use AI (Cursor, Claude, Copilot) to ship them faster. My CLI tool [**git-scope**](https://github.com/Bharath-code/git-scope) went from idea to 71 stars, 15 releases, and Homebrew distribution in 10 weeks.
+## 🚀 I Build Developer Tools That Ship
 
-I integrate LLMs (Gemini, ElevenLabs) into production apps with real-time voice AI and structured output. I've built 20+ projects across SaaS, CLI tools, and browser extensions — all open source. I write about my process on [Medium](https://medium.com/@kumarbharath63) and [Dev.to](https://dev.to/iam_pbk).
+I’m an India-based software engineer who uses AI (Cursor, Claude, Copilot) to ship **developer tools, AI products, and full-stack SaaS** at startup speed. My work is public, production-ready, and built for real users.
+
+**Proof of shipping:**
+- **[git-scope](https://github.com/Bharath-code/git-scope)** — a Go TUI for managing 50+ git repos, hit **98 stars** and **Homebrew distribution** in 10 weeks
+- **135+ public repositories** spanning CLIs, SaaS, browser extensions, and AI integrations
+- **20+ open-source projects** with releases on npm, Homebrew, and Vercel
+- Regular technical writer on [Medium](https://medium.com/@kumarbharath63) and [Dev.to](https://dev.to/iam_pbk)
 
 ---
 
-## 🎯 Open to Opportunities (Remote, Hybrid, & Onsite)
+## 🎯 What I'm Looking For
 
-I'm an India-based engineer looking for teams where I can **build products end-to-end** — from system design to shipped UI — using AI to move fast without breaking things.
+I'm open to **senior/staff engineering roles**, **founding engineer positions**, **technical co-founder opportunities**, and **angel/seed-stage builder collaborations**.
 
-### 💼 Best Fit Roles
-- **Developer Tools Engineer** — CLIs, SDKs, developer experience (I've shipped to Homebrew + npm)
-- **Full-Stack Engineer** — Go, TypeScript, React, PostgreSQL, end-to-end product ownership
-- **AI/ML Engineer** — LLM integrations, voice AI, AI-augmented workflows
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌍 Location & Preferences
-- **Based:** India 🇮🇳 (Open to Remote, Hybrid, & Onsite roles globally)
-- Early-stage to growth-stage startups building dev tools, B2B SaaS, or AI products
-- Teams that value shipping, learning in public, and using AI as a force multiplier
+### 💼 For Recruiters
 
-### 📫 Let's Connect
-- **Email:** [kumarbharath63@gmail.com](mailto:kumarbharath63@gmail.com)
-- **LinkedIn:** [linkedin.com/in/bharathkumar-palanisamy](https://linkedin.com/in/bharathkumar-palanisamy)
-- **Twitter/X:** [@iam_pbk](https://x.com/iam_pbk)
+**Best-fit roles:**
+- Developer Tools / DX Engineer
+- Full-Stack Engineer (Go, TypeScript, React, PostgreSQL)
+- AI/ML Integration Engineer
+
+**What I bring:**
+- End-to-end product ownership from architecture → UI → deployment
+- Proven distribution: Homebrew, npm, Vercel, GitHub Releases
+- AI-augmented workflow: ship faster without breaking things
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 For Investors
+
+**Why back me:**
+- I build **in public** with a clear shipping track record
+- **git-scope** reached 98★ and Homebrew in 10 weeks
+- Strong distribution + writing skills = organic growth
+- Full-stack operator: code, product, docs, and community
+
+</td>
+</tr>
+</table>
+
+**📫 Reach me:** [kumarbharath63@gmail.com](mailto:kumarbharath63@gmail.com) · [LinkedIn](https://linkedin.com/in/bharathkumar-palanisamy) · [X/Twitter](https://x.com/iam_pbk)
 
 ---
 
-## 🚀 Top Projects
+## ⭐ Featured Projects
 
-| Project | What It Does | Tech |
-| :--- | :--- | :--- |
-| [**git-scope**](https://github.com/Bharath-code/git-scope) | Go TUI that scans 50+ repos in <10ms. Fuzzy search, workspace switching, dirty filter, contribution graph, disk usage view. 15 releases, 6 contributors, Homebrew + npm. | Go, Bubble Tea, Homebrew |
-| [**debugg**](https://github.com/Bharath-code/debugg) | Universal error handling library for TypeScript. Auto-classifies errors by severity, attaches rich context, routes to Sentry/webhooks. Type-safe, cross-platform (browser + Node). | TypeScript, npm |
-| [**Smart Crisis Counselor**](https://github.com/Bharath-code/smart-crisis-counselor) | Voice-first AI crisis counselor with sub-800ms response time. Real-time transcript, 911 auto-call with GPS, breathing exercises, incognito mode. | Next.js 15, Gemini, ElevenLabs, Vercel Postgres |
-| [**YouTube Companion Dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | Full-stack dashboard for managing YouTube videos, comments, and notes. Google OAuth, event audit logging, searchable tagging. | Next.js 14, Prisma, shadcn/ui, YouTube API v3 |
+These are my highest-impact, most-active repositories. They show the breadth of what I can build — from low-level CLIs to real-time AI voice apps.
+
+| Project | Description | Impact | Stack |
+| :--- | :--- | :--- | :--- |
+| [**git-scope**](https://github.com/Bharath-code/git-scope) | Fast TUI to scan, search, and switch across 50+ git repos in <10ms. | **98★** · **15 forks** · **86 commits** · Homebrew + npm | Go, Bubble Tea |
+| [**snip**](https://github.com/Bharath-code/snip) | Cross-platform CLI for saving, searching, and running code snippets. | **4★** · **52 commits** · JavaScript CLI | JavaScript, Node.js |
+| [**youtube_companion_dashboard**](https://github.com/Bharath-code/youtube_companion_dashboard) | Full-stack SaaS for YouTube creators with OAuth, analytics, and tagging. | **2★** · **39 commits** · production SaaS | Next.js 14, Prisma, PostgreSQL |
+| [**rivaleye**](https://github.com/Bharath-code/rivaleye) | Competitor intelligence and monitoring SaaS. | **38 commits** · early-stage SaaS | TypeScript, Next.js |
+| [**salesIQ**](https://github.com/Bharath-code/salesIQ) | AI-powered sales coaching platform that analyzes call transcripts. | **1★** · **12 commits** · LLM integration | TypeScript, OpenAI |
+| [**smart-crisis-councelor**](https://github.com/Bharath-code/smart-crisis-councelor) | Voice-first AI crisis counselor with <800ms response and 911 auto-call. | **1★** · **6 commits** · real-time voice AI | Next.js 15, Gemini, ElevenLabs |
 
 <div align="center">
 
-![Total Stars](https://img.shields.io/github/stars/Bharath-code?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=public_repos&label=Public%20Repos&style=for-the-badge&color=blue&logo=github)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=followers&label=Followers&style=for-the-badge&color=green&logo=github)
+[![Total Stars](https://img.shields.io/github/stars/Bharath-code?style=for-the-badge&logo=github&color=FACC15&label=Total%20Stars)](https://github.com/Bharath-code)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=public_repos&label=Public%20Repos&style=for-the-badge&color=3B82F6&logo=github)](https://github.com/Bharath-code?tab=repositories)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBharath-code&query=followers&label=Followers&style=for-the-badge&color=10B981&logo=github)](https://github.com/Bharath-code?tab=followers)
 
 </div>
 
 ---
 
-### Other Projects & Micro SaaS
+## 🛠️ Tech Stack
 
-**CLI & Developer Tools**
-- ✂️ [**snip**](https://github.com/Bharath-code/snip) – Lightweight CLI for saving, searching, sharing, and running reusable code snippets from the terminal.
-- 📄 [**resume-cli**](https://github.com/Bharath-code/resume-cli) – Generate and manage your resume from the command line.
+### Core
 
-**SaaS & AI Products**
-- 🔮 [**rivaleye**](https://github.com/Bharath-code/rivaleye) – Competitor intelligence and monitoring SaaS.
-- 🏢 [**ad_agency**](https://github.com/Bharath-code/ad_agency) – Ad agency for your business in LLM(OpenAI,Perplexity,Gemini,etc.)(Svelte).
-- 📊 [**salesIQ**](https://github.com/Bharath-code/salesIQ) – AI-powered sales coaching platform that analyzes call transcripts.
-- 🎨 [**QRaft_AI**](https://github.com/Bharath-code/QRaft_AI) – AI-powered QR code generator with custom styling.
-- 📉 [**churn_pilot**](https://github.com/Bharath-code/churn_pilot) – Customer churn prediction and prevention dashboard.
-- 💰 [**ai-cost-guard**](https://github.com/Bharath-code/ai-cost-guard) – Monitor and optimize AI API spending.
-- 🧾 [**invoicebot**](https://github.com/Bharath-code/invoicebot) – Automated invoice generation and management.
-- 💳 [**paymenow**](https://github.com/Bharath-code/paymenow) – Payment processing and checkout flows.
-- 🥗 [**ketolens**](https://github.com/Bharath-code/ketolens) – Keto diet tracker and food analysis app.
-- 🎬 [**waveclip**](https://github.com/Bharath-code/waveclip) – Video clipping and editing tool.
-- 📑 [**deckslayer**](https://github.com/Bharath-code/deckslayer) – Pitch deck builder and presentation tool.
-- 📌 [**pincode-finder**](https://github.com/Bharath-code/pincode-finder) – Indian pincode lookup and area search.
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Browser Extensions & Frontend**
-- 🔲 [**tabZero**](https://github.com/Bharath-code/tabZero) – New tab replacement browser extension (Svelte).
-- 🌐 [**how_the_web_works**](https://github.com/Bharath-code/how_the_web_works) – Interactive guide explaining how the web works (Astro).
+### AI, Infra & Tools
 
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 🛠️ Skills & Technologies (Go | TypeScript | React | AI)
-
-**Primary:** Go · TypeScript · React · Node.js · PostgreSQL · Next.js
-
-**Infrastructure:** Docker · AWS · Redis · Linux · Vercel · Supabase
-
-**Familiar:**  Svelte · Astro · Bun · Vite
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nodejs,postgres,nextjs,docker,aws,redis,linux,vercel,supabase,rust,svelte,astro,bun,vite,tailwind,html,css,git,mysql,express&perline=12)](https://github.com/Bharath-code)
+<img src="https://github-readme-stats.vercel.app/api?username=Bharath-code&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Bharath-code&theme=github_dark&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-code&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bharath-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-code&theme=github-dark&hide_border=true&area=true" width="98%" />
 
 </div>
 
+---
 
+## ✍️ Writing & Thought Leadership
 
-## ✍️ Blog Posts
+I document what I build so others can learn from it.
 
-<!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/iam_pbk/-2434)
-- [snip - Terminal Snippet Manager](https://dev.to/iam_pbk/snip-terminal-snippet-manager-570g)
-- [Why Git Breaks Down with Many Repos &lpar;and What I Built Instead&rpar;](https://medium.com/@kumarbharath63/why-git-breaks-down-with-many-repos-and-what-i-built-instead-2513233d0ea6?source=rss-762e21a6f141------2)
-- [git scope -&gt; manage your multi git repos](https://dev.to/iam_pbk/git-scope-manage-your-multi-git-repos-4lgg)
-- [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
-<!-- BLOG-POST-LIST:END -->
+- [Why Git Breaks Down with Many Repos (and What I Built Instead)](https://medium.com/@kumarbharath63/why-git-breaks-down-with-many-repos-and-what-i-built-instead-2513233d0ea6) — Architecture behind **git-scope**
+- [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh) — Real-time TUI state management
+- [snip - Terminal Snippet Manager](https://dev.to/iam_pbk/snip-terminal-snippet-manager-570g) — Building CLI tools developers use daily
+- [View all posts on Dev.to](https://dev.to/iam_pbk) · [Read on Medium](https://medium.com/@kumarbharath63)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbharath63@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathkumar-palanisamy)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iam_pbk)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/iam_pbk)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumarbharath63)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Bharath-code)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Bharathkumar</sub>
+
+**Open to full-time roles, founding engineer positions, and investor conversations.**
+
+[📩 Send me an email](mailto:kumarbharath63@gmail.com) · [💼 Connect on LinkedIn](https://linkedin.com/in/bharathkumar-palanisamy)
+
+<sub>Built with focus by <strong>Bharathkumar Palanisamy</strong> · Last updated: June 2026</sub>
+
 </div>
